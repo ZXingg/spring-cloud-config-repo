@@ -1,13 +1,10 @@
 #spring:
 #  profiles:
 #    active: cloud
-
-profiles:profiles-default
-
 cloud:
   sample:
     msg: hello
 
-#ribbon:
-#  eureka:
-#    enabled: true
+ribbon:
+  eureka:
+    enabled: true
