@@ -1,5 +1,5 @@
-server:
-  port:6661
+foo: foo version zxing
+
 cloud:
   config:
     msg: config client dev
