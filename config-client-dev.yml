@@ -1,0 +1,3 @@
+cloud:
+  config:
+    msg: config client dev
