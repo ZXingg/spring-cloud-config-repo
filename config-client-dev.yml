@@ -1,3 +1,5 @@
+server:
+  port:6661
 cloud:
   config:
     msg: config client dev
