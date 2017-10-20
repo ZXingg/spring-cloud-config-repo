@@ -2,3 +2,4 @@ cloud:
   sample:
     msg: web-development
 
+foo: foo version 3
