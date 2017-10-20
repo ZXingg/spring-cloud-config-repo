@@ -2,11 +2,11 @@
 #  profiles:
 #    active: cloud
 
-profiles:profiles-default
+#profiles:profiles-default
 
-cloud:
-  sample:
-    msg: hello
+#cloud:
+#  sample:
+#    msg: hello
 
 #ribbon:
 #  eureka:
