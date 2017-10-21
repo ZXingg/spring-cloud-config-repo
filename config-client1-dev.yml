@@ -1,4 +1,4 @@
-foo: foo version zxing change2
+foo: foo version zxing change3
 from-port: ${server.port}
 
 cloud:
