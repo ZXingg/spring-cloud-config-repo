@@ -1,4 +1,5 @@
-foo: foo version zxing change
+foo: foo version zxing change2
+from-port: ${server.port}
 
 cloud:
   config:
